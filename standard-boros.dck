@@ -1,0 +1,21 @@
+4 [DOM:12] Danitha Capashen, Paragon
+2 [XLN:22] Legion's Landing
+4 [GRN:254] Sacred Foundry
+2 [DOM:21] History of Benalia
+2 [RIX:25] Squire's Devotion
+4 [GS1:39] Mountain
+6 [GRN:260] Plains
+4 [RIX:112] See Red
+3 [M19:152] Lightning Strike
+3 [M19:244] Sigiled Sword of Valeron
+4 [DOM:239] Clifftop Retreat
+4 [DOM:116] Champion of the Flame
+4 [DOM:6] Benalish Marshal
+2 [GRN:8] Dawn of Hope
+2 [DOM:148] Valduk, Keeper of the Flame
+3 [DOM:8] Board the Weatherlight
+3 [GRN:229] Response // Resurgence
+2 [M19:3] Ajani, Adversary of Tyrants
+2 [DOM:208] Tiana, Ship's Caretaker
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,40)|([M19:244],[M19:244],[M19:244],[RIX:112],[RIX:112],[RIX:112],[RIX:112],[RIX:25],[RIX:25])([DOM:6],[DOM:6],[DOM:6],[DOM:6],[DOM:12],[DOM:12],[DOM:12],[DOM:12],[DOM:148],[DOM:208],[DOM:116],[DOM:116],[DOM:116],[DOM:116],[DOM:208],[DOM:148])([DOM:21],[DOM:21],[XLN:22],[XLN:22],[GRN:8],[GRN:8])([GRN:229],[GRN:229],[GRN:229],[DOM:8],[DOM:8],[DOM:8])([M19:152],[M19:152],[M19:152])([GRN:254],[GRN:254],[GRN:254],[GRN:254],[DOM:239],[DOM:239],[DOM:239],[DOM:239],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GS1:39],[GS1:39],[GS1:39],[GS1:39])([M19:3],[M19:3])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

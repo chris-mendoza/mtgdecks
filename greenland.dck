@@ -1,0 +1,16 @@
+4 [C18:161] Scute Mob
+4 [C18:154] Khalni Heart Expedition
+4 [ARC:55] Fierce Empath
+2 [OGW:138] Nissa, Voice of Zendikar
+4 [10E:262] Elvish Piper
+2 [JR:3] Gaea's Cradle
+18 [KTK:266] Forest
+1 [PPRO:2017] Emrakul, the Aeons Torn
+2 [HOP:76] Rampant Growth
+4 [MM2:156] Primeval Titan
+4 [WWK:96] Avenger of Zendikar
+3 [BFZ:197] Undergrowth Champion
+4 [MM3:125] Explore
+4 [THS:180] Sylvan Caryatid
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([C18:161],[C18:161],[C18:161],[C18:161],[ARC:55],[ARC:55],[ARC:55],[ARC:55],[10E:262],[10E:262],[10E:262],[10E:262],[BFZ:197],[BFZ:197],[BFZ:197],[THS:180],[THS:180],[THS:180],[THS:180])([JR:3],[JR:3],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266])([MM3:125],[MM3:125],[MM3:125],[MM3:125],[C18:154],[C18:154],[C18:154],[C18:154],[OGW:138],[OGW:138],[HOP:76],[HOP:76])([WWK:96],[WWK:96],[WWK:96],[WWK:96],[PPRO:2017],[MM2:156],[MM2:156],[MM2:156],[MM2:156])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

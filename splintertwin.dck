@@ -1,0 +1,35 @@
+4 [MM3:240] Misty Rainforest
+2 [MMA:59] Pestermite
+4 [MM3:244] Scalding Tarn
+4 [RAV:63] Remand
+2 [MMA:38] Cryptic Command
+1 [A25:75] Twisted Image
+4 [RAV:293] Island
+1 [DIS:33] Spell Snare
+4 [A25:141] Lightning Bolt
+4 [CMA:36] Deceiver Exarch
+4 [MM3:50] Snapcaster Mage
+2 [GPT:111] Electrolyze
+3 [GPT:164] Steam Vents
+1 [MM2:67] Vendilion Clique
+1 [GPT:165] Stomping Ground
+1 [AVR:226] Cavern of Souls
+3 [BFZ:76] Dispel
+2 [AVR:227] Desolate Lighthouse
+1 [HOU:196] Mountain
+2 [DTK:151] Roast
+4 [MM2:129] Splinter Twin
+4 [CN2:120] Serum Visions
+3 [ISD:248] Sulfur Falls
+SB: 1 [IMA:75] Teferi, Mage of Zhalfir
+SB: 2 [ICE:214] Pyroclasm
+SB: 2 [MM3:90] Blood Moon
+SB: 2 [RTR:44] Jace, Architect of Thought
+SB: 2 [JOU:151] Keranos, God of Storms
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [DTK:150] Rending Volley
+SB: 1 [AER:40] Negate
+SB: 1 [DTK:151] Roast
+SB: 2 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(1,5)(NONE,false,50)|([MM2:129],[MM2:129],[MM2:129],[MM2:129],[MMA:38],[MMA:38],[GPT:111],[GPT:111],[DTK:151],[DTK:151],[MMA:59],[MMA:59],[CMA:36],[CMA:36],[CMA:36],[CMA:36],[MM3:50],[MM3:50],[MM3:50],[MM3:50],[GPT:165],[ISD:248],[ISD:248],[ISD:248])([MM2:67])([BFZ:76],[BFZ:76],[BFZ:76],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[A25:75],[DIS:33],[CN2:120],[CN2:120],[CN2:120],[CN2:120])([A25:141],[A25:141],[A25:141],[A25:141])([AVR:226],[RAV:293],[RAV:293],[RAV:293],[RAV:293],[MM3:244],[MM3:244],[MM3:244],[MM3:244],[AVR:227],[AVR:227],[MM3:240],[MM3:240],[MM3:240],[MM3:240],[HOU:196],[GPT:164],[GPT:164],[GPT:164])
+LAYOUT SIDEBOARD:(2,2)(NONE,false,50)|([M12:145],[DTK:150],[AER:40],[DTK:151],[RTR:44],[RTR:44],[JOU:151],[JOU:151],[IMA:75])()([ISD:127],[ISD:127],[ICE:214],[ICE:214])([MM3:90],[MM3:90])

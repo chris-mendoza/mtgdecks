@@ -1,0 +1,25 @@
+NAME:howlingmine-modern
+2 [MBS:97] Tezzeret, Agent of Bolas
+1 [KLD:67] Torrential Gearhulk
+2 [AER:181] Walking Ballista
+2 [MRD:150] Chalice of the Void
+4 [8ED:168] Underworld Dreams
+2 [XLN:254] Field of Ruin
+4 [KTK:259] Swamp
+3 [DST:130] Mycosynth Lattice
+1 [RTR:262] Swamp
+4 [5DN:27] Condescend
+4 [10E:325] Howling Mine
+4 [9ED:329] Urza's Tower
+1 [TSP:274] Gemstone Caverns
+4 [ZEN:201] Expedition Map
+4 [8ED:329] Urza's Power Plant
+1 [RTR:35] Cyclonic Rift
+4 [8ED:328] Urza's Mine
+4 [SOI:287] Island
+4 [8ED:316] Teferi's Puzzle Box
+1 [MRD:222] Oblivion Stone
+2 [SOM:223] Wurmcoil Engine
+2 [SOM:179] Mox Opal
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([AER:181],[AER:181],[SOM:223],[SOM:223],[MRD:222],[SOM:179],[MRD:150],[MRD:150],[KLD:67])([10E:325],[10E:325],[10E:325],[10E:325],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[DST:130],[DST:130],[DST:130],[SOM:179])([8ED:168],[8ED:168],[8ED:168],[8ED:168],[8ED:316],[8ED:316],[8ED:316],[8ED:316])([5DN:27],[5DN:27],[RTR:35],[5DN:27],[5DN:27])([KTK:259],[KTK:259],[KTK:259],[KTK:259],[SOI:287],[SOI:287],[SOI:287],[SOI:287],[RTR:262])([MBS:97],[MBS:97])([8ED:328],[8ED:328],[8ED:328],[8ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[8ED:329],[8ED:329],[8ED:329],[8ED:329])([TSP:274],[XLN:254],[XLN:254])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

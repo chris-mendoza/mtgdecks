@@ -1,0 +1,19 @@
+4 [M10:207] Coat of Arms
+2 [LGN:144] Wirewood Channeler
+2 [ZEN:170] Nissa Revane
+4 [SCG:130] Treetop Scout
+4 [ONS:329] Wirewood Lodge
+1 [10E:261] Elvish Champion
+4 [EMA:180] Rancor
+2 [10E:361] Treetop Village
+3 [ZEN:171] Nissa's Chosen
+2 [ZEN:172] Oracle of Mul Daya
+4 [ROE:198] Mul Daya Channelers
+13 [KTK:266] Forest
+2 [9ED:238] Elvish Champion
+2 [DD3EVG:2] Allosaurus Rider
+4 [V13:4] Fyndhorn Elves
+4 [ONS:265] Heedless One
+3 [ONS:300] Wellwisher
+LAYOUT MAIN:(1,5)(NONE,false,50)|([V13:4],[V13:4],[V13:4],[V13:4],[ROE:198],[ROE:198],[ROE:198],[ROE:198],[ZEN:172],[ZEN:172],[9ED:238],[9ED:238],[SCG:130],[SCG:130],[SCG:130],[SCG:130],[LGN:144],[LGN:144],[10E:261])([ONS:300],[ONS:300],[ONS:300],[DD3EVG:2],[DD3EVG:2])([M10:207],[M10:207],[M10:207],[M10:207],[EMA:180],[EMA:180],[EMA:180],[EMA:180])([ZEN:171],[ZEN:171],[ZEN:171],[ZEN:170],[ZEN:170],[ONS:265],[ONS:265],[ONS:265],[ONS:265])([KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[10E:361],[10E:361],[ONS:329],[ONS:329],[ONS:329],[ONS:329],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

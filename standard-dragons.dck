@@ -1,0 +1,25 @@
+2 [GRN:253] Overgrown Tomb
+3 [XLN:129] Vraska's Contempt
+2 [XLN:256] Rootbound Crag
+2 [RIX:160a] Journey to Eternity
+2 [XLN:252] Dragonskull Summit
+2 [M19:154] Sarkhan, Fireblood
+3 [M19:130] Banefire
+4 [DOM:153] Adventurous Impulse
+4 [M19:135] Demanding Dragon
+3 [DOM:260] Swamp
+2 [M19:232] Dragon's Hoard
+2 [DOM:1] Karn, Scion of Urza
+2 [M19:225] Vaevictis Asmadi, the Dire
+2 [XLN:191] Growing Rites of Itlimoc
+2 [DOM:149] Verix Bladewing
+2 [DOM:248] Woodland Cemetery
+2 [M19:149] Lathliss, Dragon Queen
+4 [M19:215] Draconic Disciple
+2 [DOM:224] Mox Amber
+4 [DOM:268] Forest
+5 [RIX:195] Mountain
+2 [DOM:168] Llanowar Elves
+2 [GRN:113] Risk Factor
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,40)|([M19:232],[M19:232],[DOM:224],[DOM:224])([M19:135],[M19:135],[M19:135],[M19:135],[M19:149],[M19:149],[M19:225],[M19:225],[DOM:168],[DOM:168],[M19:215],[M19:215],[M19:215],[M19:215],[DOM:149],[DOM:149])([RIX:160a],[RIX:160a],[XLN:191],[XLN:191])([XLN:129],[XLN:129],[XLN:129],[GRN:113],[GRN:113])([GRN:253],[GRN:253],[DOM:248],[DOM:248],[XLN:252],[XLN:252],[XLN:256],[XLN:256],[DOM:260],[DOM:260],[DOM:260],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[DOM:268],[DOM:268],[DOM:268],[DOM:268])([M19:154],[M19:154],[DOM:1],[DOM:1])([M19:130],[M19:130],[M19:130],[DOM:153],[DOM:153],[DOM:153],[DOM:153])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

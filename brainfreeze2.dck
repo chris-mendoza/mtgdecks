@@ -1,0 +1,18 @@
+4 [3ED:290] Underground Sea
+4 [ICE:343] Urza's Bauble
+4 [ALL:129] Shield Sphere
+4 [AKH:65] Pull from Tomorrow
+2 [VMA:319] Tolarian Academy
+4 [HOP:136] Seat of the Synod
+4 [10E:336] Ornithopter
+4 [VMA:57] Brain Freeze
+4 [NPH:74] Surgical Extraction
+4 [DDF:68] Thirst for Knowledge
+2 [MM2:223] Mox Opal
+4 [5ED:76] Brainstorm
+4 [IMA:221] Mishra's Bauble
+4 [V13:5] Impulse
+4 [MM2:238] Darksteel Citadel
+4 [HOP:141] Vault of Whispers
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([HOP:136],[HOP:136],[HOP:136],[HOP:136],[HOP:141],[HOP:141],[HOP:141],[HOP:141],[MM2:238],[MM2:238],[MM2:238],[MM2:238],[VMA:319],[VMA:319],[3ED:290],[3ED:290],[3ED:290],[3ED:290])([MM2:223],[MM2:223],[ICE:343],[ICE:343],[ICE:343],[ICE:343],[IMA:221],[IMA:221],[IMA:221],[IMA:221])([DDF:68],[DDF:68],[DDF:68],[DDF:68],[VMA:57],[VMA:57],[VMA:57],[VMA:57],[NPH:74],[NPH:74],[NPH:74],[NPH:74],[AKH:65],[AKH:65],[AKH:65],[AKH:65],[5ED:76],[5ED:76],[5ED:76],[5ED:76],[V13:5],[V13:5],[V13:5],[V13:5])([ALL:129],[ALL:129],[ALL:129],[ALL:129],[10E:336],[10E:336],[10E:336],[10E:336])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

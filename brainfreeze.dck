@@ -1,0 +1,21 @@
+2 [EMA:168] Gaea's Blessing
+1 [CMA:164] Wall of Blossoms
+4 [A25:40] Accumulated Knowledge
+4 [MIR:74] Memory Lapse
+4 [MMQ:61] Brainstorm
+3 [STH:125] Wall of Blossoms
+5 [KTK:267] Forest
+4 [SOI:92] Thing in the Ice
+2 [M12:80] Visions of Beyond
+4 [VMA:57] Brain Freeze
+4 [VMA:321] Tropical Island
+4 [ISD:241] Hinterland Harbor
+2 [MM2:157] Rampant Growth
+2 [M11:77] Traumatize
+2 [8ED:91] Merchant Scroll
+5 [DD3JVC:31] Island
+2 [VMA:70] Frantic Search
+2 [ULG:32] Frantic Search
+4 [VIS:34] Impulse
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([STH:125],[STH:125],[STH:125],[CMA:164],[SOI:92],[SOI:92],[SOI:92],[SOI:92])([M12:80],[M12:80],[A25:40],[A25:40],[A25:40],[A25:40],[MIR:74],[MIR:74],[MIR:74],[MIR:74])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[VMA:57],[VMA:57],[VMA:57],[VMA:57],[VIS:34],[VIS:34],[VIS:34],[VIS:34],[VMA:70],[VMA:70],[ULG:32],[ULG:32])([ISD:241],[ISD:241],[ISD:241],[ISD:241],[VMA:321],[VMA:321],[VMA:321],[VMA:321],[KTK:267],[KTK:267],[KTK:267],[KTK:267],[KTK:267],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31])([EMA:168],[EMA:168],[8ED:91],[8ED:91],[MM2:157],[MM2:157],[M11:77],[M11:77])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

@@ -1,0 +1,22 @@
+4 [LGN:64] Dark Supplicant
+2 [C13:10] Eternal Dragon
+2 [E01:12] Grand Abolisher
+2 [EVE:176] Fetid Heath
+2 [HOP:2] Congregate
+1 [ARC:23] Scion of Darkness
+4 [BBD:110] Swords to Plowshares
+3 [KTK:258] Swamp
+4 [SCG:137] Edgewalker
+2 [10E:137] Doomed Necromancer
+3 [CN2:140] Inquisition of Kozilek
+2 [GTC:171] High Priest of Penance
+3 [ARC:110] Lightning Greaves
+4 [ISD:242] Isolated Chapel
+5 [KTK:250] Plains
+4 [VMA:313] Scrubland
+4 [3ED:105] Demonic Tutor
+4 [ODY:30] Life Burst
+3 [ORI:120] Tainted Remedy
+2 [BBD:94] Land Tax
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ARC:110],[ARC:110],[ARC:110])([GTC:171],[GTC:171],[C13:10],[C13:10],[E01:12],[E01:12],[SCG:137],[SCG:137],[SCG:137],[SCG:137],[10E:137],[10E:137],[LGN:64],[LGN:64],[LGN:64],[LGN:64],[ARC:23])([VMA:313],[VMA:313],[VMA:313],[VMA:313],[ISD:242],[ISD:242],[ISD:242],[ISD:242],[EVE:176],[EVE:176],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:258],[KTK:258],[KTK:258])([ORI:120],[ORI:120],[ORI:120],[HOP:2],[HOP:2])([BBD:110],[BBD:110],[BBD:110],[BBD:110],[ODY:30],[ODY:30],[ODY:30],[ODY:30])([3ED:105],[3ED:105],[3ED:105],[3ED:105],[CN2:140],[CN2:140],[CN2:140],[BBD:94],[BBD:94])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

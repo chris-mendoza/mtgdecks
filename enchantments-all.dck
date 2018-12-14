@@ -1,0 +1,32 @@
+2 [M15:4] Battle Mastery
+1 [2ED:187] Birds of Paradise
+4 [2ED:281] Savannah
+3 [MMA:25] Path to Exile
+1 [JOU:145] Ajani, Mentor of Heroes
+4 [ARC:67] Rancor
+5 [KTK:266] Forest
+2 [C15:57] Ajani's Chosen
+1 [RTR:250] Plains
+2 [ROE:177] Bear Umbra
+1 [10E:249] Abundance
+2 [PTC:286] Quarantine Field
+3 [MM2:14] Daybreak Coronet
+3 [ORI:15] Grasp of the Hieromancer
+1 [USG:321] Gaea's Cradle
+1 [AER:107] Greenbelt Rampager
+1 [M19:208] Vivien Reid
+1 [MBS:18] Victory's Herald
+1 [HOU:189] Forest
+2 [EVE:4] Endless Horizons
+1 [C15:83] Victory's Herald
+3 [ARB:78] Sigil of the Nayan Gods
+1 [E01:68] Nissa, Worldwaker
+4 [PCA:9] Kor Spiritdancer
+1 [TSP:274] Gemstone Caverns
+4 [KTK:250] Plains
+1 [ORI:23] Kytheon, Hero of Akros
+2 [7ED:231] Birds of Paradise
+1 [CHK:19] Isamaru, Hound of Konda
+1 [CN2:176] Birds of Paradise
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([PCA:9],[PCA:9],[PCA:9],[PCA:9],[AER:107],[C15:57],[C15:57],[7ED:231],[7ED:231],[MBS:18],[C15:83],[10E:249],[2ED:187],[ORI:23],[CHK:19],[CN2:176])([ARC:67],[ARC:67],[ARC:67],[ARC:67],[MM2:14],[MM2:14],[MM2:14],[M15:4],[M15:4],[ROE:177],[ROE:177],[ORI:15],[ORI:15],[ORI:15],[EVE:4],[EVE:4],[PTC:286],[PTC:286])([MMA:25],[MMA:25],[MMA:25],[ARB:78],[ARB:78],[ARB:78])([2ED:281],[2ED:281],[2ED:281],[2ED:281],[USG:321],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:266],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[TSP:274],[HOU:189],[RTR:250])([E01:68],[JOU:145],[M19:208])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

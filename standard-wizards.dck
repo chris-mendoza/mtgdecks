@@ -1,0 +1,22 @@
+3 [RIX:37] Expel from Orazca
+3 [GRN:174] Goblin Electromancer
+3 [GS1:39] Mountain
+2 [XLN:46] Arcane Adaptation
+3 [RIX:77] Mastermind's Acquisition
+2 [GRN:192] Niv-Mizzet, Parun
+4 [DOM:152] Wizard's Lightning
+2 [GS1:21] Island
+3 [GRN:45] Murmuring Mystic
+2 [DOM:197] Jhoira, Weatherlight Captain
+4 [XLN:253] Drowned Catacomb
+4 [M19:232] Dragon's Hoard
+2 [XLN:82] Spell Swindle
+2 [DOM:224] Mox Amber
+4 [DOM:247] Sulfur Falls
+3 [DOM:81] Cast Down
+4 [GRN:259] Watery Grave
+3 [GRN:115] Runaway Steam-Kin
+4 [GRN:257] Steam Vents
+3 [GRN:179] Ionize
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([GRN:115],[GRN:115],[GRN:115],[GRN:174],[GRN:174],[GRN:174],[GRN:45],[GRN:45],[GRN:45],[DOM:197],[DOM:197],[GRN:192],[GRN:192])([DOM:152],[DOM:152],[DOM:152],[DOM:152],[XLN:46],[XLN:46],[XLN:82],[XLN:82],[RIX:37],[RIX:37],[RIX:37],[GRN:179],[GRN:179],[GRN:179])([DOM:247],[DOM:247],[DOM:247],[DOM:247],[GS1:39],[GS1:39],[GS1:39],[GS1:21],[GS1:21],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[GRN:259],[GRN:259],[GRN:259],[GRN:259],[XLN:253],[XLN:253],[XLN:253],[XLN:253])([M19:232],[M19:232],[M19:232],[M19:232],[DOM:224],[DOM:224])([RIX:77],[RIX:77],[RIX:77],[DOM:81],[DOM:81],[DOM:81])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

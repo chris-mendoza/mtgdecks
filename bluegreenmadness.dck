@@ -1,0 +1,16 @@
+4 [ODY:237] Diligent Farmhand
+4 [EVE:157] Overbeing of Myth
+4 [DD3GVL:5] Wild Mongrel
+4 [TOR:120] Arrogant Wurm
+6 [KTK:267] Forest
+4 [DDM:23] Into the Roil
+4 [TOR:43] Obsessive Search
+4 [VMA:321] Tropical Island
+4 [ISD:241] Hinterland Harbor
+4 [VMA:196] Basking Rootwalla
+4 [VMA:60] Circular Logic
+6 [DD3JVC:31] Island
+4 [SOI:96] Welcome to the Fold
+4 [ODY:252] Muscle Burst
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([VMA:196],[VMA:196],[VMA:196],[VMA:196],[DD3GVL:5],[DD3GVL:5],[DD3GVL:5],[DD3GVL:5],[ODY:237],[ODY:237],[ODY:237],[ODY:237],[TOR:120],[TOR:120],[TOR:120],[TOR:120],[EVE:157],[EVE:157],[EVE:157],[EVE:157])([ODY:252],[ODY:252],[ODY:252],[ODY:252],[VMA:60],[VMA:60],[VMA:60],[VMA:60],[TOR:43],[TOR:43],[TOR:43],[TOR:43],[DDM:23],[DDM:23],[DDM:23],[DDM:23])([VMA:321],[VMA:321],[VMA:321],[VMA:321],[ISD:241],[ISD:241],[ISD:241],[ISD:241],[KTK:267],[KTK:267],[KTK:267],[KTK:267],[KTK:267],[KTK:267],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31])([SOI:96],[SOI:96],[SOI:96],[SOI:96])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

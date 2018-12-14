@@ -1,0 +1,22 @@
+4 [ROE:174] Ancient Stirrings
+4 [AER:181] Walking Ballista
+2 [KLD:194] Animation Module
+4 [M11:214] Steel Overseer
+4 [ORI:229] Hangarback Walker
+1 [NPH:165] Phyrexia's Core
+1 [DST:163] Blinkmoth Nexus
+2 [FUT:177] Horizon Canopy
+1 [TSB:120] Pendelhaven
+6 [KTK:268] Forest
+4 [DST:100] Arcbound Ravager
+1 [OGW:176] Ruins of Oran-Rief
+4 [M15:242] Darksteel Citadel
+4 [KTK:133] Hardened Scales
+4 [DST:104] Arcbound Worker
+3 [MRD:274] Welding Jar
+4 [MBS:145] Inkmoth Nexus
+4 [SOM:179] Mox Opal
+2 [SOM:211] Throne of Geth
+1 [ORI:176] Evolutionary Leap
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([AER:181],[AER:181],[AER:181],[AER:181],[ORI:229],[ORI:229],[ORI:229],[ORI:229],[M11:214],[M11:214],[M11:214],[M11:214],[DST:100],[DST:100],[DST:100],[DST:100],[DST:104],[DST:104],[DST:104],[DST:104])([M15:242],[M15:242],[M15:242],[M15:242])([SOM:179],[SOM:179],[SOM:179],[SOM:179],[MRD:274],[MRD:274],[MRD:274],[KLD:194],[KLD:194],[SOM:211],[SOM:211])([KTK:133],[KTK:133],[KTK:133],[KTK:133],[ORI:176])([DST:163],[KTK:268],[KTK:268],[KTK:268],[KTK:268],[KTK:268],[KTK:268],[FUT:177],[FUT:177],[MBS:145],[MBS:145],[MBS:145],[MBS:145],[TSB:120],[NPH:165],[OGW:176])([ROE:174],[ROE:174],[ROE:174],[ROE:174])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

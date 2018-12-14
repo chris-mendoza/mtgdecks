@@ -1,0 +1,20 @@
+3 [BBD:41] Spellseeker
+3 [GRN:163] Crackling Drake
+2 [JR:54] Wheel of Fortune
+4 [EMA:40] Brainstorm
+4 [RAV:63] Remand
+4 [A25:141] Lightning Bolt
+3 [SOI:92] Thing in the Ice
+4 [KTK:254] Island
+4 [ME3:215] Volcanic Island
+4 [KTK:262] Mountain
+4 [DOM:247] Sulfur Falls
+2 [2ED:48] Ancestral Recall
+3 [MM3:35] Cyclonic Rift
+2 [A25:237] Cascade Bluffs
+3 [PC2:44] Fling
+4 [VMA:70] Frantic Search
+3 [AKH:198] Enigma Drake
+4 [VMA:162] Gamble
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([AKH:198],[AKH:198],[AKH:198],[SOI:92],[SOI:92],[SOI:92],[BBD:41],[BBD:41],[BBD:41],[GRN:163],[GRN:163],[GRN:163])([2ED:48],[2ED:48],[A25:141],[A25:141],[A25:141],[A25:141],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[PC2:44],[PC2:44],[PC2:44],[MM3:35],[MM3:35],[MM3:35])([JR:54],[JR:54],[VMA:162],[VMA:162],[VMA:162],[VMA:162])([KTK:254],[KTK:254],[KTK:254],[KTK:254],[ME3:215],[ME3:215],[ME3:215],[ME3:215],[KTK:262],[KTK:262],[KTK:262],[KTK:262],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[A25:237],[A25:237])([EMA:40],[EMA:40],[EMA:40],[EMA:40],[VMA:70],[VMA:70],[VMA:70],[VMA:70])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

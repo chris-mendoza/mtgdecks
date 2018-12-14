@@ -1,0 +1,25 @@
+2 [C17:86] Into the Roil
+2 [EVE:175] Cascade Bluffs
+1 [ALA:242] Mountain
+1 [M11:58] Jace Beleren
+3 [M11:217] Temple Bell
+4 [RAV:63] Remand
+3 [M11:149] Lightning Bolt
+3 [10E:120] Twincast
+4 [9ED:298] Howling Mine
+4 [SOI:92] Thing in the Ice
+3 [TSP:297] Mountain
+1 [TSP:274] Gemstone Caverns
+4 [ZEN:146] Runeflare Trap
+1 [ZEN:74] Trapmaker's Snare
+4 [SOI:244] Fevered Visions
+1 [SOI:288] Island
+1 [ORI:157] Pia and Kiran Nalaar
+2 [KLD:249] Spirebluff Canal
+3 [M10:75] Time Warp
+3 [SOI:286] Island
+4 [ISD:248] Sulfur Falls
+3 [M15:82] Void Snare
+3 [CN2:120] Serum Visions
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([9ED:298],[9ED:298],[9ED:298],[9ED:298],[M11:217],[M11:217],[M11:217],[SOI:244],[SOI:244],[SOI:244],[SOI:244])([SOI:92],[SOI:92],[SOI:92],[SOI:92],[M11:58],[ORI:157])([M11:149],[M11:149],[M11:149],[C17:86],[C17:86])([M10:75],[M10:75],[M10:75],[M15:82],[M15:82],[M15:82],[ZEN:74],[CN2:120],[CN2:120],[CN2:120])([ZEN:146],[ZEN:146],[ZEN:146],[ZEN:146],[10E:120],[10E:120],[10E:120],[RAV:63],[RAV:63],[RAV:63],[RAV:63])([ISD:248],[ISD:248],[ISD:248],[ISD:248],[KLD:249],[KLD:249],[TSP:297],[TSP:297],[ALA:242],[TSP:297],[SOI:286],[SOI:286],[SOI:286],[SOI:288])([TSP:274],[EVE:175],[EVE:175])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

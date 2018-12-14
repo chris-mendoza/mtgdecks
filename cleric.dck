@@ -1,0 +1,22 @@
+4 [LGN:64] Dark Supplicant
+2 [SOI:281] Westvale Abbey
+4 [C13:10] Eternal Dragon
+3 [RTR:3] Arrest
+2 [EVE:176] Fetid Heath
+2 [ARC:23] Scion of Darkness
+2 [A25:85] Diabolic Edict
+2 [KTK:258] Swamp
+4 [SCG:137] Edgewalker
+4 [BBD:110] Swords to Plowshares
+2 [ARC:25] Sign in Blood
+2 [MM3:75] Inquisition of Kozilek
+2 [GTC:171] High Priest of Penance
+4 [KTK:250] Plains
+4 [ISD:242] Isolated Chapel
+4 [VMA:313] Scrubland
+4 [3ED:105] Demonic Tutor
+2 [3ED:46] Wrath of God
+4 [ORI:120] Tainted Remedy
+3 [GTC:141] Alms Beast
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([SCG:137],[SCG:137],[SCG:137],[SCG:137],[LGN:64],[LGN:64],[LGN:64],[LGN:64],[ARC:23],[ARC:23],[GTC:171],[GTC:171],[GTC:141],[GTC:141],[GTC:141],[C13:10],[C13:10],[C13:10],[C13:10])([VMA:313],[VMA:313],[VMA:313],[VMA:313],[SOI:281],[SOI:281],[KTK:250],[KTK:250],[KTK:250],[KTK:250],[KTK:258],[KTK:258],[ISD:242],[ISD:242],[ISD:242],[ISD:242],[EVE:176],[EVE:176])([3ED:105],[3ED:105],[3ED:105],[3ED:105],[MM3:75],[MM3:75],[ARC:25],[ARC:25])([RTR:3],[RTR:3],[RTR:3],[BBD:110],[BBD:110],[BBD:110],[BBD:110],[ORI:120],[ORI:120],[ORI:120],[ORI:120],[3ED:46],[3ED:46],[A25:85],[A25:85])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

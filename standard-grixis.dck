@@ -1,0 +1,23 @@
+4 [GRN:167] Disinformation Campaign
+4 [XLN:129] Vraska's Contempt
+2 [RIX:79] Moment of Craving
+3 [GRN:38] Dream Eater
+1 [XLN:81] Spell Pierce
+4 [XLN:252] Dragonskull Summit
+1 [DOM:243] Memorial to Genius
+3 [M19:152] Lightning Strike
+4 [XLN:253] Drowned Catacomb
+2 [GRN:32] Chemister's Insight
+3 [GRN:54] Sinister Sabotage
+3 [GRN:84] Ritual of Soot
+3 [RIX:194] Swamp
+1 [DOM:257] Island
+4 [DOM:247] Sulfur Falls
+3 [M19:218] Nicol Bolas, the Ravager
+4 [GRN:206] Thought Erasure
+1 [DOM:90] The Eldest Reborn
+3 [GRN:259] Watery Grave
+4 [GRN:257] Steam Vents
+3 [GRN:223] Discovery // Dispersal
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,40)|([M19:218],[M19:218],[M19:218],[GRN:38],[GRN:38],[GRN:38])([GRN:167],[GRN:167],[GRN:167],[GRN:167],[GRN:206],[GRN:206],[GRN:206],[GRN:206],[GRN:223],[GRN:223],[GRN:223],[GRN:54],[GRN:54],[GRN:54])([GRN:32],[GRN:32],[XLN:129],[XLN:129],[XLN:129],[XLN:129],[GRN:84],[GRN:84],[GRN:84],[DOM:90],[M19:152],[M19:152],[M19:152],[XLN:81],[RIX:79],[RIX:79])([XLN:252],[XLN:252],[XLN:252],[XLN:252],[XLN:253],[XLN:253],[XLN:253],[XLN:253],[DOM:243],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[GRN:259],[GRN:259],[GRN:259],[RIX:194],[RIX:194],[RIX:194],[DOM:257])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

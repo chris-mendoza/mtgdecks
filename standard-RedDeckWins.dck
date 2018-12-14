@@ -1,0 +1,20 @@
+3 [GRN:111] Maximize Velocity
+4 [XLN:149] Lightning Strike
+3 [RIX:109] Pirate's Pillage
+15 [GRN:263] Mountain
+2 [XLN:159] Rowdy Crew
+2 [XLN:136] Captain Lannery Storm
+2 [M19:164] Tormenting Voice
+2 [DOM:132] Jaya Ballard
+3 [XLN:254] Field of Ruin
+2 [M19:130] Banefire
+3 [M19:136] Dismissive Pyromancer
+3 [DOM:151] Warlord's Fury
+3 [M19:156] Shock
+2 [DOM:127] Ghitu Lavarunner
+3 [DOM:278] Pyromantic Pilgrim
+2 [GRN:108] Lava Coil
+4 [GRN:115] Runaway Steam-Kin
+2 [GRN:113] Risk Factor
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([GRN:115],[GRN:115],[GRN:115],[GRN:115],[DOM:127],[DOM:127],[XLN:159],[XLN:159],[M19:136],[M19:136],[M19:136],[XLN:136],[XLN:136],[DOM:278],[DOM:278],[DOM:278])([M19:156],[M19:156],[M19:156],[GRN:108],[GRN:108],[XLN:149],[XLN:149],[XLN:149],[XLN:149])([GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[XLN:254],[XLN:254],[XLN:254])([DOM:132],[DOM:132])([RIX:109],[RIX:109],[RIX:109],[M19:164],[M19:164],[GRN:111],[GRN:111],[GRN:111],[GRN:113],[GRN:113],[DOM:151],[DOM:151],[DOM:151],[M19:130],[M19:130])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

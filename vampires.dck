@@ -1,0 +1,18 @@
+2 [AVR:161] Tibalt, the Fiend-Blooded
+2 [M11:117] Sign in Blood
+4 [TMP:204] Shocker
+4 [TSB:63] Fire Whip
+4 [M10:104] Megrim
+4 [ARB:46] Terminate
+2 [CMD:101] Sign in Blood
+6 [POR:209] Mountain
+4 [RTR:260] Swamp
+4 [KTK:230] Bloodstained Mire
+4 [ISD:164] Stromkirk Noble
+4 [SOI:145] Avacyn's Judgment
+4 [DDC:48] Cruel Edict
+4 [VMA:192] Wheel of Fortune
+4 [VMA:291] Badlands
+2 [AER:74] Yahenni, Undying Partisan
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([VMA:192],[VMA:192],[VMA:192],[VMA:192],[M10:104],[M10:104],[M10:104],[M10:104],[TMP:204],[TMP:204],[TMP:204],[TMP:204],[TSB:63],[TSB:63],[TSB:63],[TSB:63],[M11:117],[M11:117],[CMD:101],[CMD:101])([AVR:161],[AVR:161],[AER:74],[AER:74],[ISD:164],[ISD:164],[ISD:164],[ISD:164])([ARB:46],[ARB:46],[ARB:46],[ARB:46],[DDC:48],[DDC:48],[DDC:48],[DDC:48],[SOI:145],[SOI:145],[SOI:145],[SOI:145])([POR:209],[POR:209],[POR:209],[POR:209],[POR:209],[POR:209])([RTR:260],[RTR:260],[RTR:260],[RTR:260])([VMA:291],[VMA:291],[VMA:291],[VMA:291],[KTK:230],[KTK:230],[KTK:230],[KTK:230])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

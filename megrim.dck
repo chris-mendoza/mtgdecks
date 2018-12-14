@@ -1,0 +1,19 @@
+4 [CM2:113] Magus of the Wheel
+4 [TMP:204] Shocker
+4 [TSB:63] Fire Whip
+4 [CMD:231] Terminate
+4 [M11:103] Liliana's Caress
+4 [M10:223] Dragonskull Summit
+4 [KTK:259] Swamp
+4 [P02:67] Cruel Edict
+4 [MM2:75] Dark Confidant
+4 [KTK:264] Mountain
+3 [MM3:75] Inquisition of Kozilek
+1 [KTK:263] Mountain
+3 [KTK:230] Bloodstained Mire
+3 [ISD:164] Stromkirk Noble
+4 [VMA:192] Wheel of Fortune
+4 [VMA:291] Badlands
+2 [ISD:105] Liliana of the Veil
+LAYOUT MAIN:(1,4)(NONE,false,50)|([M11:103],[M11:103],[M11:103],[M11:103],[MM2:75],[MM2:75],[MM2:75],[MM2:75],[VMA:192],[VMA:192],[VMA:192],[VMA:192],[TMP:204],[TMP:204],[TMP:204],[TMP:204],[TSB:63],[TSB:63],[TSB:63],[TSB:63],[ISD:164],[ISD:164],[ISD:164])([CMD:231],[CMD:231],[CMD:231],[CMD:231],[CM2:113],[CM2:113],[CM2:113],[CM2:113],[P02:67],[P02:67],[P02:67],[P02:67],[MM3:75],[MM3:75],[MM3:75])([ISD:105],[ISD:105])([VMA:291],[VMA:291],[VMA:291],[VMA:291],[M10:223],[M10:223],[M10:223],[M10:223],[KTK:230],[KTK:230],[KTK:230],[KTK:263],[KTK:259],[KTK:259],[KTK:259],[KTK:259],[KTK:264],[KTK:264],[KTK:264],[KTK:264])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

@@ -1,0 +1,31 @@
+NAME:howlingmine-modern
+1 [KLD:222] Metalwork Colossus
+4 [MRD:283] Seat of the Synod
+4 [ORI:229] Hangarback Walker
+1 [NPH:165] Phyrexia's Core
+1 [M12:213] Pentavus
+2 [XLN:254] Field of Ruin
+1 [RAV:293] Island
+4 [5DN:27] Condescend
+2 [M13:220] Trading Post
+4 [9ED:329] Urza's Tower
+4 [ZEN:201] Expedition Map
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [RTR:35] Cyclonic Rift
+4 [MRD:286] Vault of Whispers
+1 [MRD:222] Oblivion Stone
+2 [SOM:179] Mox Opal
+2 [MBS:97] Tezzeret, Agent of Bolas
+2 [AER:181] Walking Ballista
+2 [MRD:150] Chalice of the Void
+1 [5DN:114] Crucible of Worlds
+1 [RTR:263] Swamp
+1 [DOM:1] Karn, Scion of Urza
+1 [DOM:215] Gilded Lotus
+1 [TSP:274] Gemstone Caverns
+4 [8ED:329] Urza's Power Plant
+4 [8ED:328] Urza's Mine
+2 [SOI:265] Tamiyo's Journal
+2 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([AER:181],[AER:181],[SOM:223],[SOM:223],[MRD:222],[MRD:150],[MRD:150],[ORI:229],[ORI:229],[ORI:229],[ORI:229],[M12:213],[KLD:222])([ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[SOM:179],[SOM:179],[5DN:114],[DOM:215],[SOI:265],[SOI:265],[M13:220],[M13:220])([5DN:27],[5DN:27],[RTR:35],[5DN:27],[5DN:27])([MRD:283],[MRD:283],[MRD:283],[MRD:283],[MRD:286],[MRD:286],[MRD:286],[MRD:286])([RAV:293],[RTR:263],[NPH:165])([MBS:97],[MBS:97],[DOM:1],[FRF:1])([8ED:328],[8ED:328],[8ED:328],[8ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[8ED:329],[8ED:329],[8ED:329],[8ED:329])([TSP:274],[XLN:254],[XLN:254])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

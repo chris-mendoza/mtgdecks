@@ -1,0 +1,21 @@
+2 [ONS:202] Fever Charm
+3 [RAV:81] Dark Confidant
+4 [EMA:223] Isochron Scepter
+2 [RAV:63] Remand
+4 [C13:83] Nightscape Familiar
+1 [DDT:14] Mind Spring
+3 [KTK:259] Swamp
+3 [C16:225] Terminate
+4 [VMA:116] Demonic Tutor
+4 [SOI:92] Thing in the Ice
+4 [ODY:292] Psychatog
+4 [CNS:91] Brainstorm
+3 [VMA:78] Mana Drain
+4 [VMA:323] Underground Sea
+3 [VMA:324] Volcanic Island
+2 [C13:192] Grixis Charm
+2 [VMA:100] Upheaval
+4 [DD3JVC:31] Island
+4 [VMA:291] Badlands
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([EMA:223],[EMA:223],[EMA:223],[EMA:223])([ODY:292],[ODY:292],[ODY:292],[ODY:292],[C13:83],[C13:83],[C13:83],[C13:83],[RAV:81],[RAV:81],[RAV:81],[SOI:92],[SOI:92],[SOI:92],[SOI:92])([RAV:63],[RAV:63],[CNS:91],[CNS:91],[CNS:91],[CNS:91],[ONS:202],[ONS:202],[VMA:78],[VMA:78],[VMA:78],[C16:225],[C16:225],[C16:225],[C13:192],[C13:192])([VMA:100],[VMA:100],[VMA:116],[VMA:116],[VMA:116],[VMA:116],[DDT:14])([VMA:323],[VMA:323],[VMA:323],[VMA:323],[KTK:259],[KTK:259],[KTK:259],[VMA:324],[VMA:324],[VMA:324],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[DD3JVC:31],[VMA:291],[VMA:291],[VMA:291],[VMA:291])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

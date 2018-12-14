@@ -1,0 +1,18 @@
+4 [RIX:109] Pirate's Pillage
+4 [GRN:163] Crackling Drake
+3 [XLN:254] Field of Ruin
+4 [M19:163] Thud
+4 [M19:152] Lightning Strike
+4 [GRN:44] Mission Briefing
+4 [GRN:52] Radical Idea
+4 [M19:156] Shock
+2 [XLN:82] Spell Swindle
+4 [M19:216] Enigma Drake
+4 [RIX:193] Island
+4 [DOM:247] Sulfur Falls
+5 [RIX:195] Mountain
+4 [GRN:257] Steam Vents
+2 [GRN:179] Ionize
+4 [DOM:60] Opt
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,40)|([M19:216],[M19:216],[M19:216],[M19:216],[GRN:163],[GRN:163],[GRN:163],[GRN:163])([M19:152],[M19:152],[M19:152],[M19:152],[GRN:179],[GRN:179],[M19:156],[M19:156],[M19:156],[M19:156],[GRN:44],[GRN:44],[GRN:44],[GRN:44],[DOM:60],[DOM:60],[DOM:60],[DOM:60],[GRN:52],[GRN:52],[GRN:52],[GRN:52],[XLN:82],[XLN:82])([GRN:257],[GRN:257],[GRN:257],[GRN:257],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:193],[RIX:193],[RIX:193],[RIX:193],[XLN:254],[XLN:254],[XLN:254])([M19:163],[M19:163],[M19:163],[M19:163],[RIX:109],[RIX:109],[RIX:109],[RIX:109])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

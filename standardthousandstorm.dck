@@ -1,0 +1,26 @@
+3 [XLN:149] Lightning Strike
+2 [GRN:154] Beacon Bolt
+1 [GRN:195] Ral, Izzet Viceroy
+1 [BBD:184] Shock
+2 [XLN:252] Dragonskull Summit
+3 [XLN:273] Mountain
+3 [XLN:254] Field of Ruin
+1 [M19:152] Lightning Strike
+2 [XLN:253] Drowned Catacomb
+3 [XLN:74] Search for Azcanta
+4 [GRN:44] Mission Briefing
+3 [GRN:52] Radical Idea
+1 [M19:156] Shock
+6 [M19:266] Island
+1 [DOM:119] Fight with Fire
+4 [DOM:247] Sulfur Falls
+1 [RIX:52] Secrets of the Golden City
+4 [GRN:207] Thousand-Year Storm
+2 [RIX:94] Brass's Bounty
+4 [GRN:257] Steam Vents
+1 [GRN:179] Ionize
+3 [DOM:60] Opt
+3 [GRN:223] Discovery // Dispersal
+2 [GRN:113] Risk Factor
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([GRN:207],[GRN:207],[GRN:207],[GRN:207],[XLN:74],[XLN:74],[XLN:74])([GRN:223],[GRN:223],[GRN:223],[GRN:44],[GRN:44],[GRN:44],[GRN:44])([GRN:179],[M19:156],[BBD:184],[XLN:149],[M19:152],[XLN:149],[XLN:149],[DOM:60],[DOM:60],[DOM:60],[GRN:154],[GRN:154],[RIX:94],[RIX:94],[GRN:52],[GRN:52],[GRN:52],[GRN:113],[GRN:113])([XLN:254],[XLN:254],[XLN:254],[M19:266],[M19:266],[M19:266],[M19:266],[M19:266],[M19:266],[XLN:273],[XLN:273],[XLN:273],[GRN:257],[GRN:257],[GRN:257],[GRN:257],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[XLN:252],[XLN:252],[XLN:253],[XLN:253])([GRN:195],[DOM:119],[RIX:52])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|

@@ -1,0 +1,19 @@
+4 [DOM:88] Dread Shade
+1 [DOM:87] Divest
+4 [XLN:118] Ruin Raider
+4 [XLN:129] Vraska's Contempt
+2 [M19:94] Duress
+18 [GRN:262] Swamp
+3 [XLN:126] Sword-Point Diplomacy
+1 [RIX:88] Twilight Prophet
+3 [M19:120] Sovereign's Bite
+2 [M19:294] Liliana's Spoils
+3 [GRN:72] Hired Poisoner
+2 [GRN:84] Ritual of Soot
+2 [DOM:238] Cabal Stronghold
+3 [DOM:214] Forebear's Blade
+3 [DOM:81] Cast Down
+2 [M19:91] Demon of Catastrophes
+3 [RIX:82] Ravenous Chupacabra
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([DOM:214],[DOM:214],[DOM:214])([XLN:118],[XLN:118],[XLN:118],[XLN:118],[DOM:88],[DOM:88],[DOM:88],[DOM:88],[RIX:82],[RIX:82],[RIX:82],[GRN:72],[GRN:72],[GRN:72],[RIX:88],[M19:91],[M19:91])([XLN:129],[XLN:129],[XLN:129],[XLN:129],[DOM:81],[DOM:81],[DOM:81],[M19:120],[M19:120],[M19:120])([GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[GRN:262],[DOM:238],[DOM:238])([M19:94],[DOM:87],[M19:94],[M19:294],[M19:294],[GRN:84],[GRN:84],[XLN:126],[XLN:126],[XLN:126])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,40)|
